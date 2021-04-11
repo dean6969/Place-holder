@@ -33,6 +33,6 @@ Build dự án AI Bot tư vấn dinh dưỡng và sức khỏe cho người dùn
 
 ## Demo app
 
-[Imgur](https://i.imgur.com/sfDnrmO.gifv)
+![Alt Text](https://i.imgur.com/sfDnrmO.gifv)
 
 
